@@ -1,0 +1,80 @@
+{
+  "tiers": [
+    {
+      "level": 1,
+      "life": 100,
+      "minusX": 2,
+      "minusY": 3,
+      "minusZ": 5,
+      "addLife": 10,
+      "songs": [
+        {
+          "id": "1-1",
+          "name": "ひぐらしのなく頃に Naraku no Hana (TV_SIZE)",
+          "level": 12.6,
+          "image": "songs/1-1/bg.jpg",
+          "downloadUrl": "/api/songs/1-1/download"
+        },
+        {
+          "id": "1-2",
+          "name": "主人公になろう！",
+          "level": 12.6,
+          "image": "songs/1-2/bg.jpg",
+          "downloadUrl": "/api/songs/1-2/download"
+        },
+        {
+          "id": "1-3",
+          "name": "WyvernP - Clock Paradox [Phigros]",
+          "level": 12.7,
+          "image": "songs/1-3/bg.jpg",
+          "downloadUrl": "/api/songs/1-3/download"
+        },
+        {
+          "id": "1-4",
+          "name": "甘神さんちの縁結び - Pray Pray Pray",
+          "level": 12.9,
+          "image": "songs/1-4/bg.jpg",
+          "downloadUrl": "/api/songs/1-4/download"
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "life": 4,
+      "minusX": 2,
+      "minusY": 3,
+      "minusZ": 4,
+      "addLife": 10,
+      "songs": [
+        {
+          "id": "2-1",
+          "name": "Song Name 5",
+          "level": 2.0,
+          "image": "songs/2-1/bg.jpg",
+          "downloadUrl": "/api/songs/2-1/download"
+        },
+        {
+          "id": "2-2",
+          "name": "Song Name 6",
+          "level": 2.2,
+          "image": "/songs/2-2/cover.jpg",
+          "downloadUrl": "/api/songs/2-2/download"
+        },
+        {
+          "id": "2-3",
+          "name": "Song Name 7",
+          "level": 2.5,
+          "image": "/songs/2-3/cover.jpg",
+          "downloadUrl": "/api/songs/2-3/download"
+        },
+        {
+          "id": "2-4",
+          "name": "Song Name 8",
+          "level": 2.8,
+          "image": "/songs/2-4/cover.jpg",
+          "downloadUrl": "/api/songs/2-4/download"
+        }
+      ]
+    }
+  ]
+} 
